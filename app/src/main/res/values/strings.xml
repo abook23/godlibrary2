@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">godLibrary</string>
+    <string name="app_name">app</string>
+    <string name="title_activity_exp_list_view">ExpListViewActivity</string>
 </resources>

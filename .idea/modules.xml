@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godlibrary/godlibrary.iml" filepath="$PROJECT_DIR$/godlibrary/godlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godlibrary-madiaStore/godlibrary-madiaStore.iml" filepath="$PROJECT_DIR$/godlibrary-madiaStore/godlibrary-madiaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godlibrary-retrofit/godlibrary-retrofit.iml" filepath="$PROJECT_DIR$/godlibrary-retrofit/godlibrary-retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/godlibrary2.iml" filepath="$PROJECT_DIR$/godlibrary2.iml" />
     </modules>
   </component>
